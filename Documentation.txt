@@ -1,2 +1,3 @@
-Maciej Owsianny: Zarz�dzanie uprawnieniami do plik�w i katalog�w
-Jakub Florczak: Zarz�dzanie procesorem metod� priorytetow�
+Maciej Owsianny: Zarzšdzanie uprawnieniami do plików i katalogów
+Jakub Florczak: Zarzšdzanie procesorem metodš priorytetowš
+Przemysław Woźny: Zarządzanie pamięcią RAM metodą stronicowania
